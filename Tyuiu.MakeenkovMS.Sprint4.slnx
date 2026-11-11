@@ -1,7 +1,12 @@
 <Solution>
-  <Folder Name="/Task4/">
+  <Folder Name="/Task0/">
     <Project Path="Tyuiu.MakeenkovMS.Sprint4.Task0.V3.Lib/Tyuiu.MakeenkovMS.Sprint4.Task0.V3.Lib.csproj" />
     <Project Path="Tyuiu.MakeenkovMS.Sprint4.Task0.V3.Test/Tyuiu.MakeenkovMS.Sprint4.Task0.V3.Test.csproj" />
     <Project Path="Tyuiu.MakeenkovMS.Sprint4.Task0.V3/Tyuiu.MakeenkovMS.Sprint4.Task0.V3.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MakeenkovMS.Sprint4.Task1.V11.Lib/Tyuiu.MakeenkovMS.Sprint4.Task1.V11.Lib.csproj" />
+    <Project Path="Tyuiu.MakeenkovMS.Sprint4.Task1.V11.Test/Tyuiu.MakeenkovMS.Sprint4.Task1.V11.Test.csproj" />
+    <Project Path="Tyuiu.MakeenkovMS.Sprint4.Task1.V11/Tyuiu.MakeenkovMS.Sprint4.Task1.V11.csproj" />
   </Folder>
 </Solution>
